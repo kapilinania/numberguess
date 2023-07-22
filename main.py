@@ -14,3 +14,4 @@ while True:
     else:
         print("You guessed the right number!")
         break
+
